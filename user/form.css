@@ -1,0 +1,40 @@
+
+        .registration-form{
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            height: 100vh;
+            width: 100%;
+        }
+     
+        button{
+            background-color: rgb(0, 81, 255);
+            border-radius: 5px;
+            padding: 8px;
+            border: none;
+            color: beige;
+            cursor: pointer;
+         
+       
+
+        }
+        .gender{
+            display:flex
+        }
+        .login-form{
+            text-align: center;
+        }
+        .input{
+            margin: 10px ;
+            padding: 5px;
+            width: 90%;
+        }
+        .gender_select{
+           margin: 0px;
+           padding: 0;
+    }
+        form{
+            box-shadow: rgba(100, 100, 111, 0.2) 0px 7px 29px 0px;
+            padding: 20px 40px;
+        }
+   
